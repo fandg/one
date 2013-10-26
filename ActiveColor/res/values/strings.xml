@@ -3,6 +3,7 @@
 
     <string name="app_name">ActiveColor</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="color_text">RRGGBB</string>
+    <string name="capture_button_text">Capture Color</string>
 
 </resources>
